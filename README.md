@@ -1,5 +1,5 @@
 <div>   
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java Coffee Badge" />
 </div>
 
 # JavaContactPractice
